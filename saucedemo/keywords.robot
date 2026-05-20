@@ -39,3 +39,18 @@ Validar Produto No Carrinho
     Element Should Contain    
     ...    class:inventory_item_name    
     ...    Sauce Labs Backpack
+
+Checkout
+    Click Button    id:checkout
+
+Preencher Dados
+    Input Text    id:first-name    Fulano
+    Input Text    id:last-name    Ciclano
+    Input Text    id:postal-code    35042000
+
+Continuar Checkout 
+    Click Button    id:continue
+
+Finalizar Checkout
+    Click Button    id:finish
+

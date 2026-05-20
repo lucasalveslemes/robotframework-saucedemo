@@ -18,3 +18,15 @@ Adicionar Produto No Carrinho
     Adicionar Produto Ao Carrinho
     Abrir Carrinho
     Validar Produto No Carrinho
+
+Fluxo Completo
+    Realizar Login Válido
+    Validar Login Com Sucesso
+    Adicionar Produto Ao Carrinho
+    Abrir Carrinho
+    Validar Produto No Carrinho
+    Checkout
+    Preencher Dados
+    Continuar Checkout
+    Finalizar Checkout
+    
